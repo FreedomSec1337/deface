@@ -1,0 +1,40 @@
+<?php
+
+?>
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta content="./Freedom Security" name="description">
+    <meta content="./Freedom Security" name="keywords">
+    <meta content="./Freedom Security " name="Abstract">
+    <meta content="all, index, follow" name="robots">
+    <meta content="all, index, follow" name="googlebot">
+    <meta property="og:title" content="Hacked By ./Freedom Security ">
+    <meta property="og:image" content="https://pbs.twimg.com/media/E9s1AcZVgAIeOrD?format=jpg&name=large">
+    <meta name="description" content="Cyber Idols to The World">
+    <meta name="distribution" content="global"/>
+    <link href="https://fonts.googleapis.com/css?family=Cinzel Decorative" rel="stylesheet" type="text/css">
+    <title>Hacked By ./Freedom Security </title>
+    <style>
+        body {
+            background-position: center;
+            background-size: cover;
+            background-color: black;
+            font-family: 'Cinzel Decorative';
+        }
+    </style>
+</head>
+<body oncontextmenu="return false">
+    <table height="100%" width="100%">
+        <td align="center">
+            <img height="220" width="220" src="https://iili.io/FOTUKlt.th.jpg">
+            <br><br><font color='red' size="6">Hacked By ./Freedom Security </font>
+            <br><br><font style="color: white; font-family: Garamond;" size="4">Greetz : Indonesian Zero Security - Russian Cyber Ford - Surabaya BlackHat - Neutral Index</font>
+            <audio autoplay loop hidden>
+                <source src="https://d2zpktjqyigr1r.cloudfront.net/p6erqz%2Ffile%2F8d1cc42a4b56235f412b030baf7c6862_f92b738e7d9dd7b4f18d89b26a7ff434.mp3?response-content-disposition=inline%3Bfilename%3D%228d1cc42a4b56235f412b030baf7c6862_f92b738e7d9dd7b4f18d89b26a7ff434.mp3%22%3B&response-content-type=audio%2Fmpeg&Expires=1750169550&Signature=SyavPkki7Kkr5EAIWrJCK9rGJrHNXwFYk-OK2J1JvpZCHbcpYhTvv~~GQNQwmq9zqqli3YOUm6O5h4rGWuTkg9E8t52te~J2zcFI9F3rEl8B3F2qqt2JfGeEV4MsLrIztpckEYUMwtXbIdGYP0~rNhfJhOE44zUJpRHZbF40slgKm-CoaJmq5BMw~iVo7EFUySGop713pRiK1~bMtImZBYnCnEiaJ1l8UZ-sdBCGaARm70Q3jYsHcdmSLh000GlIiSVbAWdUS~AGEEil6z1IVg3MhcwpEu8rrN33PTjKiNA-oC35QBy6qjHFGtpKmAP4GxVPKBUU6xzn~Lbl7pLZ9A__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ" type="audio/mpeg">
+            </audio>
+        </td>
+    </table>
+</body>
+</html>
