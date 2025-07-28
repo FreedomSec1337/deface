@@ -1,0 +1,205 @@
+<?php echo ""; ?>
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="title" content="Hacked By ./Freedom Security Ft ./Petrus4Sec ">
+  <meta name="description" content="wh00pz ! your security get down">
+  <meta name="keywords" content=",wordpress,website,whitehat,blackhat,defacer,hack,mirror">
+  <meta name="robots" content="index, follow">
+  <meta name="language" content="English">
+  <meta name="revisit-after" content="60 days">
+  <meta name="author" content="Berita hari ini | Hacked By./Freedom Security Ft ./Petrus4Sec ">
+  <meta property="og:image" content="https://qu.ax/QwoZx.jpeg">
+  <meta name="theme-color" content="#000">
+  <title>Hacked By ./Freedom Security Ft ./Petrus4Sec </title>
+  <link rel="icon" type="image/png" href="https://b.top4top.io/p_34514h9cg0.jpg">
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    html, body {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      font-family: 'Courier New', monospace;
+    }
+
+    body {
+      background: #000 url('https://files.catbox.moe/2q6kdf.jpg') no-repeat center center fixed;
+      background-size: cover;
+      color: #fff;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      position: relative;
+    }
+
+    .overlay {
+      position: absolute;
+      inset: 0;
+      background: rgba(0, 0, 0, 0.6);
+      z-index: 0;
+    }
+
+    .content {
+      position: relative;
+      z-index: 1;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .circle-img {
+      width: 180px;
+      height: 180px;
+      border-radius: 50%;
+      border: 3px solid #fff;
+      margin-bottom: 20px;
+      background-image: url('https://iili.io/FOTUKlt.th.jpg');
+      background-size: cover;
+      background-position: center;
+    }
+
+    h3 {
+      font-size: 2em;
+      color: #ff0000;
+      margin: 10px 0;
+    }
+
+    p {
+      font-size: 1.1em;
+      color: #ccc;
+    }
+
+    footer {
+      position: absolute;
+      bottom: 15px;
+      font-size: 0.8em;
+      color: #aaa;
+      z-index: 1;
+    }
+
+    marquee {
+      margin-top: 10px;
+      color: #0f0;
+    }
+
+    .toggle-btn {
+      position: absolute;
+      top: 15px;
+      right: 15px;
+      background: #fff;
+      color: #000;
+      border: none;
+      padding: 5px 10px;
+      cursor: pointer;
+      font-weight: bold;
+      border-radius: 8px;
+      z-index: 2;
+    }
+
+    body.light-mode {
+      background: #fff url('https://files.catbox.moe/psrp3a.jpg') no-repeat center center fixed;
+      background-size: cover;
+      color: #000;
+    }
+
+    body.light-mode .overlay {
+      background: rgba(255, 255, 255, 0.6);
+    }
+
+    body.light-mode h3 {
+      color: #d00;
+    }
+
+    body.light-mode p {
+      color: #111;
+    }
+
+    body.light-mode footer {
+      color: #222;
+    }
+
+    body.light-mode .toggle-btn {
+      background: #000;
+      color: #fff;
+    }
+
+    .snowflake {
+      position: fixed;
+      top: -10px;
+      width: 8px;
+      height: 8px;
+      background: white;
+      border-radius: 50%;
+      opacity: 0.8;
+      animation: fall linear infinite;
+      z-index: 0;
+    }
+
+    @keyframes fall {
+      0% {
+        transform: translateY(0) translateX(0);
+        opacity: 0.8;
+      }
+      100% {
+        transform: translateY(100vh) translateX(30px);
+        opacity: 0;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="overlay"></div>
+
+  <div class="content">
+    <div class="circle-img"></div>
+    <h3>Hacked By Neutral Index </h3>
+    <p>O<strong>./Freedom Security Ft ./Petrus4Sec </strong><br></p>
+
+    <marquee>
+      <font size="2">
+        <b>Greetz</b>: ./Freedom Security Ft ./Petrus4Sec  - WitchWasHere  - Has -wenos -r -  </4rilxz> - nNn404 - dapzxploit - Yoshik4wa -mrkzX -G4rzzXPloit - ./AnonHax7 - Geneva Cyber Team - XERO ANON TEAM - ./Freedom Security - Petrus4Sec - ./AnonHax7 - H4XOR GBP - ./Fan Hornet - Mr Ngesmoke - Shukshinn - BullyXploit - FireFiles - ./AnonHax7- ./Root Tech - ./Fan Hornet - metasploid - Kxx Hack - Paan7Cyber - Tanaka Haxor - MR JOKER - MR INGGRIS - AMIRXPLOIT - DimasHaxor -  BULLYXPLOIT - AS7 - 4M1RXPL01T - MR P94NG^_^ - MR CYFIN - MR GHOST - ZAKY - WHO ARE YOU GANS - KUBIL TZY - BIOR'S - ARIS JATENG - STARSXPLOIT - RAZHER7 - PANGLIMA JATENG - XNUXER H3LLBOY - MAK RARAY - MR KALONG XPLOIT - LIONXPLOIT - XRAIN - AVRILL HENGKER - T0P4N - AR190404 - MR ZACKY - MR HG47XCGY - XNUXER ACHILL - XNUXER F - IMEL HAXOR - Kenzxploit - GALVER77 - MR VIRUS SPM - PANGLIMA JATIM - UCEN HAXOR - ILMU PADI01 - 4L! LCR - N0N1M - QY YURA - MONGKER CYBER - BOLD EXPLOIT - RAMZXPLOIT - AryzXPloit - Zyrex - PentaL AttacKer - SyxXploit - infernalXploit - ALBERT - Demonstray119 - 0xMCH4CK - shon_joky - Mr.Cula - Mr.Nau - PoksG4Nz - M4SKGANS - PAKD.SCTH - RAZHERSEC1337 - DENOMZ - FUSHINN - PANGERAN1337 - NOTNAME 3R0R - SUKABUMIERRORSISTEM - @fromlammertomastah - And my old self : ./cyfin77 :)
+      </font>
+    </marquee>
+  </div>
+
+  <footer>Neutral Index Team</footer>
+
+  <script>
+
+    function toggleMode() {
+      document.body.classList.toggle('light-mode');
+    }
+
+    function createSnowflake() {
+      const snowflake = document.createElement('div');
+      snowflake.classList.add('snowflake');
+      snowflake.style.left = Math.random() * window.innerWidth + 'px';
+      snowflake.style.animationDuration = (5 + Math.random() * 5) + 's';
+      snowflake.style.opacity = Math.random();
+      snowflake.style.width = snowflake.style.height = (4 + Math.random() * 4) + 'px';
+      document.body.appendChild(snowflake);
+      setTimeout(() => snowflake.remove(), 10000);
+    }
+
+    setInterval(createSnowflake, 150);
+
+    window.addEventListener('click', () => {
+      const audio = document.getElementById('bgAudio');
+      if (audio.paused) {
+        audio.play().catch(e => {
+          console.log('Autoplay gagal:', e);
+        });
+      }
+    }, { once: true });
+  </script>
+</body>
+</html>
