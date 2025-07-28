@@ -1,7 +1,5 @@
-<?php
-// ok
-?>
-
+<?php echo ""; ?>
+<!-- lalu lanjut HTML -->
 
 
 <!DOCTYPE html>
