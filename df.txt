@@ -11,8 +11,8 @@
     <meta content="all, index, follow" name="robots">
     <meta content="all, index, follow" name="googlebot">
     <meta property="og:title" content="Hacked By ./Freedom Security ">
-    <meta property="og:image" content="https://pbs.twimg.com/media/E9s1AcZVgAIeOrD?format=jpg&name=large">
-    <meta name="description" content="Cyber Idols to The World">
+    <meta property="og:image" content="https://qu.ax/QwoZx.jpeg">
+
     <meta name="distribution" content="global"/>
     <link href="https://fonts.googleapis.com/css?family=Cinzel Decorative" rel="stylesheet" type="text/css">
     <title>Hacked By ./Freedom Security </title>
