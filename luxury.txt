@@ -22,11 +22,11 @@
       font-family: 'Cinzel', serif;
     }
     img {
-      width: 400px;
+      width: 300px;
       margin-bottom: 25px;
     }
     .kernel {
-      font-size: 0.10em; 
+      font-size: 1em; 
       margin-bottom: 15px;
       color: #fff;
     }
@@ -49,7 +49,7 @@
     }
     .greetz {
       margin-top: 15px;
-      font-size: 0.10em; 
+      font-size: 1em; 
       color: #aaa;
     }
     @keyframes glowText {
