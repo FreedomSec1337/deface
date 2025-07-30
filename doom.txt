@@ -1,0 +1,30 @@
+<html><head>
+<title>Hacked By ./Freedom Security </title>
+<meta property="og:image" content="https://blog.mitramulia.com/kcfinder/upload/files/Bahan%20Parasut/JAKET%20MARUYAMA%203.webp">
+<meta name="title" content="Hacked By ./Freedom Security >
+<meta name="description" content="./Freedom Security ">
+<link href="https://fonts.googleapis.com/css?family=Share+Tech+Mono" rel="stylesheet">
+</head>
+<body style="color: #fff; margin:0;font: normal 14px/20px Share Tech Mono, Helvetica, sans-serif; height:100%; background-color: #000000;" bis_register="W3sibWFzdGVyIjp0cnVlLCJleHRlbnNpb25JZCI6ImVwcGlvY2VtaG1ubGJoanBsY2drb2ZjaWllZ29tY29uIiwiYWRibG9ja2VyU3RhdHVzIjp7IkRJU1BMQVkiOiJlbmFibGVkIiwiRkFDRUJPT0siOiJlbmFibGVkIiwiVFdJVFRFUiI6ImVuYWJsZWQifSwidmVyc2lvbiI6IjEuOC4xMyIsInNjb3JlIjoxMDgxMzB9XQ==">
+<div style="height:auto; min-height:100%; " bis_skin_checked="1">
+<div style="text-align: center; width:800px; margin-left: -400px; position:absolute; top: 20%; left:50%;" bis_skin_checked="1">
+<center><img style="width:350px;" src="https://qu.ax/QwoZx.jpeg">
+<h2 style="margin-top:20px;font-size: 30px;">wh00pz!!! Pwn3dz By <font color="red">./Freedom Security</h2></font>
+<?php
+$kernel = php_uname();
+?>
+<h2 style="margin-top:20px;font-size:20px;">
+    <span style="color:white;"><?php echo htmlspecialchars($kernel); ?></span>
+</h2>
+<font size="4" color="white" class="text-center text-white mb-3">-=|IZS Group ft Padang BlackHat|=-
+<p>
+
+ <font size="4" color="white" class="text-center text-white mb-3">- Suapnasi01 - MrKaktus - GhostRed - Rbtwjya - babytiger -<br>- YakuzoHaxor -<font color="red"> ./Freedom Security</font> - Londoxploitcrewtzy - n4ns1Hx - S4bilXploit - v19_yuno - Mr.N0name - Ghost7 - And you:*<br></font>
+
+<br></font></p><p><font size="4" color="white" class="text-center text-white mb-3"> </font></p><div class="mek" bis_skin_checked="1"><font size="4" color="white" class="text-center text-white mb-3"> <font color="white" class="text-center text-white mb-3" size="3">Greezt<center>-=|<marquee width="60%"><font class="text-center text-white mb-3" color="white" size="3">HakunaSec Team - Panoc Team - Garuda Scurity System - Indonesia Hacktivist </font></marquee>|=-</center>
+<p> </p>
+</font></font></div><font size="4" color="white" class="text-center text-white mb-3"><font color="white" class="text-center text-white mb-3" size="3">
+<center><audio autoplay="autoplay" controls="controls" src="https://i.top4top.io/m_1784mcg6q0.mp3" type="audio/mpeg"></audio></center>
+</font></font></font></center></div><font size="4" color="white" class="text-center text-white mb-3"><font size="4" color="white" class="text-center text-white mb-3"><font color="white" class="text-center text-white mb-3" size="3">
+
+<script type="231a873d4df246852fca0515-text/javascript">'undefined'=== typeof _trfq || (window._trfq = []);'undefined'=== typeof _trfd && (window._trfd=[]),_trfd.push({'tccl.baseHost':'secureserver.net'}),_trfd.push({'ap':'cpsh'},{'server':'sg3plcpnl0214'}) // Monitoring performance to make your website faster. If you want to opt-out, please contact web hosting support.</script><script src="https://img1.wsimg.com/tcc/tcc_l.combined.1.0.6.min.js" type="231a873d4df246852fca0515-text/javascript"></script><script type="231a873d4df246852fca0515-text/javascript">'undefined'=== typeof _trfq || (window._trfq = []);'undefined'=== typeof _trfd && (window._trfd=[]),_trfd.push({'tccl.baseHost':'secureserver.net'}),_trfd.push({'ap':'cpsh'},{'server':'sg3plcpnl0214'}) // Monitoring performance to make your website faster. If you want to opt-out, please contact web hosting support.</script><script src="https://img1.wsimg.com/tcc/tcc_l.combined.1.0.6.min.js" type="231a873d4df246852fca0515-text/javascript"></script></font></font></font></div><script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="231a873d4df246852fca051
