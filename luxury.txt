@@ -22,11 +22,11 @@
       font-family: 'Cinzel', serif;
     }
     img {
-      width: 90px;
+      width: 300px;
       margin-bottom: 25px;
     }
     .kernel {
-      font-size: 1.0em; 
+      font-size: 1em; 
       margin-bottom: 15px;
       color: #fff;
     }
@@ -49,7 +49,7 @@
     }
     .greetz {
       margin-top: 15px;
-      font-size: 1.0em; 
+      font-size: 1em; 
       color: #aaa;
     }
     @keyframes glowText {
@@ -63,7 +63,7 @@
   <div class="kernel">
     <?php echo php_uname(); ?>
   </div>
-  <h1>Hacked By ./Freedom Security</h1>
+  <h1>Wh00pz!! Pwn3dz By ./Freedom Security</h1>
   <p>don't worry admin just fun >_</p>
   <div class="greetz">
     greetz: ./AnonHax7 - ./Fan Hornet - Alpha02 - Delta Crime - ./Root Tech - ./Advance7 - Mr Stuka - Tn X57
