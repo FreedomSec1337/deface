@@ -1,3 +1,9 @@
+<?php
+http_response_code(200);
+$req = basename($_SERVER['REQUEST_URI']);
+if ($req && $req !== 'index.php' && $req !== '') {}
+?>
+
 <html><head>
 <title>Hacked By ./Freedom Security </title>
 <meta property="og:image" content="https://blog.mitramulia.com/kcfinder/upload/files/Bahan%20Parasut/JAKET%20MARUYAMA%203.webp">
