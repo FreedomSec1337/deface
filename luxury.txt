@@ -22,7 +22,7 @@
       font-family: 'Cinzel', serif;
     }
     img {
-      width: 300px;
+      width: 90px;
       margin-bottom: 25px;
     }
     .kernel {
