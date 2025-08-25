@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="description" content="Mengejar Dan Ketemu Namun Terhalang 403 :)"/>
+<title>Hacked By ./Freedom Security </title>
+<link rel="icon" href="https://nathanprinsley-files.prinsh.com/data-1/images/NathanPrinsley-animasi-bergerak-hujan.gif"/>
+<style>
+body {
+    text-align: center;
+}
+</style>
+</head>
+<body>
+<center>
+<img style="margin-top:5%;" src="https://nathanprinsley-files.prinsh.com/data-1/images/NathanPrinsley-animasi-bergerak-hujan.gif" width="400">
+<br/><br/>
+<h1 style="font-family:system-ui">Hacked By ./Freedom Security </h1>
+<font size="5" color="black">Mengejar Dan Ketemu Namun Terhalang 403 :)</font>
+<br/><br/>
+<font size="20" color="gray">Tegal  BlackHat</font>
+<br/><br/><br/><br/>
+<font size="2" color="black">INDONESIAN HACKER RULES</font>
+<hr/>
+<font size="2" color="black">&copy; 2021 ./AnonHax7 Ft ./Freedom Security - All Right Reserved</font>
+</center>
+</body>
+</html>
